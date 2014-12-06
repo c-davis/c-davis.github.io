@@ -11,7 +11,7 @@ relative_permalinks: true
 # Setup
 title:               Carl Davis
 tagline:             'An IT Tech'
-description:         '"Have you tried turning it off and on again - Roy Trenneman"'
+description:         '"Have you tried turning it off and on again" - Roy Trenneman'
 url:                 http://c-davis.co.uk
 baseurl:             /
 paginate:            5
