@@ -6,4 +6,9 @@ So there are many pages with instructions on setting up a Samba server on a Rasp
 
   > However I was yet to found one that actually works.
 
+My set up consisted of a single HDD formatted in exFat.
 
+First things first; SSH into our Pi our update our repositories!
+{% highlight js %}
+sudo apt-get update
+{% endhighlight %}
