@@ -106,6 +106,7 @@ sudo /etc/init.d/samba restart
 {% endhighlight %}
 
 Once restarted you can now test your share on the next work.
+When prompted log in using the below credentials (assuming you've used the ones above)
 <table>
   <thead>
     <tr>
