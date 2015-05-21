@@ -12,3 +12,16 @@ First things first; SSH into our Pi our update our repositories!
 {% highlight js %}
 sudo apt-get update
 {% endhighlight %}
+
+We now need to make a directory
+{% highlight js %}
+sudo mkdir /media/USBHDD1
+{% endhighlight %}
+
+This will make the owner of the directory pi
+{% highlight js %}
+sudo chown -R pi:pi /mnt/usbstorage
+{% endhighlight %}
+
+
+
