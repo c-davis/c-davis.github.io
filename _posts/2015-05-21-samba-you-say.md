@@ -8,6 +8,5 @@ So there are many pages with instructions on setting up a Samba server on a Rasp
   However I was yet to found one that actually works.
 </div>
 
-  > <strong> What you need..</strong> 
-  > A raspberry pi, obviously.
+  
 
