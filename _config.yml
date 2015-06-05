@@ -13,12 +13,12 @@ title:               Carl Davis
 tagline:             'An IT Tech'
 description:         '"Have you tried turning it off and on again" - Roy Trenneman'
 url:                 http://c-davis.co.uk
-baseurl:             ""
+baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
-  name:              
+  name:              Carl Davis
   url:               http://c-davis.co.uk
   email:             carl@c-davis.co.uk
 
